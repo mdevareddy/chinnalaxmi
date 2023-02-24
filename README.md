@@ -1,2 +1,0 @@
-# chinnalaxmi
-Pyrhon programs
